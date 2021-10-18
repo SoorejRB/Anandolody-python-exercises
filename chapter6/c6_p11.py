@@ -1,0 +1,1 @@
+# Write a function vectorize which takes a function f and return a new function, which takes a list as argument and calls f for every element and returns the result as a list.

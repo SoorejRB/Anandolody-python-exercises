@@ -17,6 +17,5 @@ print(sum([1, 2, 3]))
 # print(sum(["aa", "bb", "cc"]))
 '''
 # problem
-
 x = [2,5,6,1]
 print(sum(x))
